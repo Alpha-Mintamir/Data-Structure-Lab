@@ -14,7 +14,7 @@ double triangle(double height, double width)
 
 {
    double area = 0.5 * height * width;
-   return area;
+   return area; //area
 }
 //Q3
 
